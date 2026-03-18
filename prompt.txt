@@ -1,0 +1,8 @@
+1. Write a Playwright Python script to scrape top 5 entertainment news from ekantipur.com including title, image_url, category, and author
+2. How to navigate to entertainment section and wait for dynamic content to load in Playwright?
+3. How to extract image src that might be lazy-loaded using data-src attribute in Playwright Python?
+4. How to handle missing/optional elements safely using try/except in Playwright?
+5. How to find and scrape the Cartoon of the Day section from a news website?
+6. How to save Nepali Devanagari text properly in JSON using ensure_ascii=False?
+7. How to use fallback selectors when primary selector doesn't find an element?
+8. How to convert relative image URLs to full absolute URLs in Python?
